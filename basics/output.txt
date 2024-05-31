@@ -1,2 +1,0 @@
-value inside function 10
-value inside int main 10
